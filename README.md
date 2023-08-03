@@ -14,7 +14,7 @@
 > <b><i>Containing-</b></i><br/>
 > Unit 03: Chapter 06<br/>
 > Unit 04: Chapter 07<br/>
-> Unit 05: Chapter 08 and Chapter 12<br/>
+> Unit 05: Chapter 08 & Chapter 12<br/>
 
 
 ![Syllabus_page-0001](https://github.com/get002/CSM_IVyr_NN-DL/assets/96179184/640d3a74-5e9b-4d2f-b7d5-59d5491cb1b7)
