@@ -3,7 +3,7 @@
 ### [NPTEL| Deep Learning| IIT Kharagpur](https://onlinecourses.nptel.ac.in/noc23_ee131/preview)
 
 
-### [Text Book]()
+### Text Book
 
 > <b><i>Containing-</b></i><br/>
 > Unit 01: <br/>
