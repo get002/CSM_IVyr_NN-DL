@@ -1,6 +1,6 @@
 # CM701PC-Neural Networks & Deep Learning
 
-### [NPTEL| Deep Learning| IIT Kharagpur](https://onlinecourses.nptel.ac.in/noc23_ee131/preview)
+### [NPTEL| Deep Learning| IIT Ropar](https://onlinecourses.nptel.ac.in/noc23_cs110/preview)
 
 
 ### Text Book
