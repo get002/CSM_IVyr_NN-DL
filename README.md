@@ -9,7 +9,7 @@
 > Unit 01: <br/>
 > Unit 02: <br/>
 
-### [Text Book](https://drive.google.com/file/d/1TDdT4tGUNFRu505kJWABjT4Ssc64s_HE/view?usp=drive_link)
+### [Text Book - Deep Learning : An MIT Press Book](https://drive.google.com/file/d/1TDdT4tGUNFRu505kJWABjT4Ssc64s_HE/view?usp=drive_link)
 
 > <b><i>Containing-</b></i><br/>
 > Unit 03: Chapter 06<br/>
